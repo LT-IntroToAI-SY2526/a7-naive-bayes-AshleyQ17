@@ -1,6 +1,6 @@
 ---
 title: 'Assignment 7: Naïve Bayes Classifier'
-author: |
+author: Ashley Quiroz 
   | Assignment written by Sara Sood (while at Pomona College),
   | Northwestern University with changes by Nathan Shelly
 geometry: margin=1in
